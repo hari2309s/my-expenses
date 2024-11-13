@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.ts,.jsx,.tsx .",
     "format": "prettier --ignore-path .gitignore --write \"**/*.+(js|ts|js|tsx|json)\"",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.0",

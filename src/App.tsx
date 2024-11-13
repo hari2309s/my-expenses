@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import Dashboard from './components/Dashboard';
 import AppIcon from './assets/app-icon.png';

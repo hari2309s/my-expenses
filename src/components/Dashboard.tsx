@@ -1,4 +1,3 @@
-import React from 'react';
 import Card from './Card';
 import AddExpenseIcon from '../assets/add-expense.png';
 import AddIncomeIcon from '../assets/add-income.png';
